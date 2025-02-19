@@ -2,10 +2,16 @@ site_name: Retatds Server
 site_url: https://retards-server.github.io/
 theme:
     name: material
+    language: it
     palette:
         scheme: slate
-        primary: green
-        accent: light green
+        primary: cyan
+        accent: cyan
+    features:
+        - navigation.instant
+        - navigation.instant.progress
+        - navigation.tabs
+        - navigation.indexes
 markdown_extensions:
     - admonition
     - toc:
