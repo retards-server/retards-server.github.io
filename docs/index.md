@@ -12,8 +12,9 @@
 
 📰 Novità del Server
 
-!!! tip "Scoperta ricetta segreta del Krubby Patty"
-	Godo
+!!! tip "godo"
+
+    Godo
 
 ---
 
@@ -22,11 +23,13 @@
 Ecco tutto quello che vi serve per iniziare e rimanere informati:
 
 ### 📚 **[Guide iniziali](getting-started)**
+
 - [Setup](getting-started/setup) - Guida passo-per-passo su come scaricare il modpack ed entrare nel Server.
 - [Configurazione](getting-started/config) – Istruzioni per configurare il client e il modpack la prima volta che entrate nel Server.
-- [Comandi](getting-started/controls) - Lista dei comandi da tastiera preconfigurati del modpack.
+- [Controlli](getting-started/controls) - Lista dei comandi da tastiera preconfigurati del modpack.
 
 ### 📝 **[Guide generali](guides)**
+
 - [Comandi](guides/commands) - Cambiare il tempo, teletrasportarsi, lanciare teschi di Wither e altro ancora.
 - [Effortless Building](guides/effortless-building) - Per costruire velocemente tramite una semplice interfaccia.
 - [WorldEdit](guides/worldedit) - Per costruire in modo piú avanzato tramite comandi.
@@ -34,10 +37,12 @@ Ecco tutto quello che vi serve per iniziare e rimanere informati:
 - [Project Red](guides/project-red) - Mod tecnica basata sulla redstone.
 
 ### 🏛️ **[Lore](lore)**
+
 - [Mappa](lore/map) - Mappa del Server Creativa, città e altro.
 - [Reuleni](lore/reuleni) - Leggi, abitanti di Reuleni e i loro Punti Cittadinanza.
 
 ### 🛠️ **[Informazioni](info)**
+
 - [GitHub](https://github.com/retards-server/RetatdsServer) - Sorgente del modpack, delle sue mod e le loro configurazioni.
 - [Dettagli tecnici](info/details) – Versioni di Minecraft/Forge, regole del Server, e altre info varie.
 - [Modlist](info/modlist) – Lista di tutte le mod usate dal Server e le loro descrizioni.
