@@ -6,6 +6,10 @@
 
 ---
 
+[TOC]
+
+---
+
 📰 Novità del Server
 
 !!! tip "Scoperta ricetta segreta del Krubby Patty"
