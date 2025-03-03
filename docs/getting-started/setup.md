@@ -39,3 +39,27 @@ Se avete Prism ma non avete ancora installato il modpack:
 - Cliccate su "Import".
 - Incollate il seguente link: `https://github.com/retards-server/RetardsServer/releases/latest/download/RetardsServer.zip`
 - Aspettate che Prism scarichi il modpack.
+
+## **Usare il modpack ed entrare nel Server**
+
+Se è la prima volta che aprite il modpack ed entrate nel Server:
+
+- Assicuratevi di essere entrati col vostro account su aternos.org.
+- Andate su aternos.org/server e accendete il Server.
+- Aprite Minecraft.
+- Andate su "Options" -> "Controls" -> "Key binds" e premete "Reset Keys"
+- Tornate nel menú principale e premete "Play".
+!!! info "Nota"
+	Potrebbero volerci piú tentativi per entrare.
+- Premete ++t++, scrivete `/register <password> <confirm>` e premete invio. Rimpiazzate `<password>` e `<confirm>` con la password che volete usare.
+
+D'ora in poi, per entrare nel Server dovrete, usare il comando `/login <password>`.
+
+## Aggiornare il modpack
+
+Per aggiornare il modpack:
+
+- Scaricate l'ultima versione da [qui](https://github.com/retards-server/RetardsServer/releases/latest/download/RetardsServer.zip).
+- Aprite Prism, cliccate sull'istanza, poi "Edit" -> "Version" -> "Select file"
+- Cliccate sul modpack che avete appena scaricato.
+- Aspettate che si aggiorni.

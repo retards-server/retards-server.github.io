@@ -12,9 +12,16 @@
 
 📰 Novità del Server
 
-!!! tip "godo"
+!!! tip "È uscito il Capitolo 2!!!"
 
-    Godo
+    Dopo una lunga attesa, il secondo Capitolo di questo Server è uscito.
+    Due nuovi mondi: delle tele bianche pronte ad essere dipinte, stavolta piú belle che mai.
+    Cosa ne uscirà fuori?
+
+!!! tip "Contrattempi col Festival"
+
+	Il Reuleni Festival è stato rimandato per problemi tecnici.
+	Inoltre, si terrà nella piazza di Retards City.
 
 ---
 
@@ -25,16 +32,15 @@ Ecco tutto quello che vi serve per iniziare e rimanere informati:
 ### 📚 **[Guide iniziali](getting-started)**
 
 - [Setup](getting-started/setup) - Guida passo-per-passo su come scaricare il modpack ed entrare nel Server.
-- [Configurazione](getting-started/config) – Istruzioni per configurare il client e il modpack la prima volta che entrate nel Server.
+- [Configurazione](getting-started/config) – Istruzioni per configurare il client e il modpack nel modo migliore per voi.
 - [Controlli](getting-started/controls) - Lista dei comandi da tastiera preconfigurati del modpack.
 
 ### 📝 **[Guide generali](guides)**
 
-- [Comandi](guides/commands) - Cambiare il tempo, teletrasportarsi, lanciare teschi di Wither e altro ancora.
+- [Comandi](guides/commands) - Cambiare il tempo, teletrasportarsi, ~~lanciare teschi di Wither~~ e altro ancora.
 - [Effortless Building](guides/effortless-building) - Per costruire velocemente tramite una semplice interfaccia.
-- [WorldEdit](guides/worldedit) - Per costruire in modo piú avanzato tramite comandi.
-- [Create](guides/create) - Mod meccanica basata sull'automazione.
-- [Project Red](guides/project-red) - Mod tecnica basata sulla redstone.
+- [Forgematica](guides/forgematica) per incollare schematiche da Internet o crearne di proprie.
+- ~~WorldEdit - Per costruire in modo piú avanzato tramite comandi.~~
 
 ### 🏛️ **[Lore](lore)**
 

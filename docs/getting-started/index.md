@@ -1,10 +1,13 @@
-# **Setup**
+# **Guide iniziali**
 
-## **Scaricare Prism Launcher**
+## [Setup](getting-started/setup)
 
-Se non avete ancora installato Prism Launcher:
-...
+Spiega come installare Prism, il modpack, e come entrare nel Server.
 
-## **Scaricare il modpack**
+## [Configurazione](getting-started/config) 
 
-Ora avete Prism, ma dovete anco
+Spiega come configurare qualche impostazione per rendere il gioco piú veloce/realistico.
+
+## [Controlli](getting-started/controls)
+
+Mostra tutti i comandi da tastiera del modpack.
