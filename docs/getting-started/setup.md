@@ -2,7 +2,7 @@
 
 ## **Scaricare Prism**
 
-Se ce l'avete ancora, dovete scaricare Prism Launcher:
+Se non ce l'avete ancora, dovete scaricare Prism Launcher:
 
 - Installate Prism da [qui](https://prismlauncher.org/download/).
 - Apritelo e configurate le impostazioni come preferite.
@@ -37,23 +37,8 @@ Se avete Prism ma non avete ancora installato il modpack:
 - Aprite Prism.
 - Cliccate su "Add Instance" in alto a sinistra.
 - Cliccate su "Import".
-- Incollate il seguente link: `https://github.com/retards-server/RetardsServer/releases/latest/download/RetardsServer.zip`
+- Incollate il seguente link: `https://github.com/retards-server/modpack/releases/latest/download/RetardsServer.zip`.
 - Aspettate che Prism scarichi il modpack.
-
-## **Usare il modpack ed entrare nel Server**
-
-Se è la prima volta che aprite il modpack ed entrate nel Server:
-
-- Assicuratevi di essere entrati col vostro account su aternos.org.
-- Andate su aternos.org/server e accendete il Server.
-- Aprite Minecraft.
-- Andate su "Options" -> "Controls" -> "Key binds" e premete "Reset Keys"
-- Tornate nel menú principale e premete "Play".
-!!! info "Nota"
-	Potrebbero volerci piú tentativi per entrare.
-- Premete ++t++, scrivete `/register <password> <confirm>` e premete invio. Rimpiazzate `<password>` e `<confirm>` con la password che volete usare.
-
-D'ora in poi, per entrare nel Server dovrete, usare il comando `/login <password>`.
 
 ## Aggiornare il modpack
 
@@ -63,3 +48,14 @@ Per aggiornare il modpack:
 - Aprite Prism, cliccate sull'istanza, poi "Edit" -> "Version" -> "Select file"
 - Cliccate sul modpack che avete appena scaricato.
 - Aspettate che si aggiorni.
+
+## Entrare nel Server
+
+Per entrare nel Server:
+
+- Assicuratevi di essere loggati nel vostro account su aternos.org.
+- Andate su aternos.org/servers e accendete il Server.
+- Aprite Minecraft e cliccate su "Multiplayer".
+- Cliccate "Add Server".
+- Scrivete "Retards Creative" nel nome e "RetardsCreative.aternos.me" nell'indirizzo.
+- Premete "Done" e connettetevi al Server.
