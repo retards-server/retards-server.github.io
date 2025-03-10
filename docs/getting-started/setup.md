@@ -37,14 +37,14 @@ Se avete Prism ma non avete ancora installato il modpack:
 - Aprite Prism.
 - Cliccate su "Add Instance" in alto a sinistra.
 - Cliccate su "Import".
-- Incollate il seguente link: `https://github.com/retards-server/modpack/releases/latest/download/RetardsServer.zip`.
+- Incollate il seguente link: `https://github.com/retards-server/modpack/releases/latest/download/RetardsServer.mrpack`.
 - Aspettate che Prism scarichi il modpack.
 
 ## Aggiornare il modpack
 
 Per aggiornare il modpack:
 
-- Scaricate l'ultima versione da [qui](https://github.com/retards-server/RetardsServer/releases/latest/download/RetardsServer.zip).
+- Scaricate l'ultima versione da [qui](https://github.com/retards-server/modpack/releases/latest/download/RetardsServer.mrpack).
 - Aprite Prism, cliccate sull'istanza, poi "Edit" -> "Version" -> "Select file"
 - Cliccate sul modpack che avete appena scaricato.
 - Aspettate che si aggiorni.
@@ -56,6 +56,4 @@ Per entrare nel Server:
 - Assicuratevi di essere loggati nel vostro account su aternos.org.
 - Andate su aternos.org/servers e accendete il Server.
 - Aprite Minecraft e cliccate su "Multiplayer".
-- Cliccate "Add Server".
-- Scrivete "Retards Creative" nel nome e "RetardsCreative.aternos.me" nell'indirizzo.
-- Premete "Done" e connettetevi al Server.
+- Quando il Server è acceso, entrate.
