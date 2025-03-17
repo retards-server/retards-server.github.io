@@ -1,5 +1,5 @@
 # **Guide iniziali**
 
-## [Setup](getting-started/setup)
+## [Setup](setup.md)
 
 Spiega come installare Prism, il modpack, e come entrare nel Server.

@@ -24,21 +24,21 @@
 
 Ecco tutto quello che vi serve per iniziare e rimanere informati:
 
-### 📚 **[Guide iniziali](getting-started)**
+### 📚 **[Guide iniziali](getting-started/index.md)**
 
-- [Setup](getting-started/setup) - Guida passo-per-passo su come scaricare il modpack ed entrare nel Server.
+- [Setup](getting-started/setup.md) - Guida passo-per-passo su come scaricare il modpack ed entrare nel Server.
 
-### 📝 **[Guide generali](guides)**
+### 📝 **[Guide generali](guides/index.md)**
 
-- [Effortless Building](guides/effortless-building) - Per costruire velocemente tramite una semplice interfaccia.
-- [Forgematica](guides/forgematica) per incollare schematiche da Internet o crearne di proprie.
-- [WorldEdit](guides/worldedit) - Per costruire in modo piú avanzato tramite comandi.
+- [Effortless Building](guides/effortless-building.md) - Per costruire velocemente tramite una semplice interfaccia.
+- [Litematica](guides/litematica.md) per incollare schematiche da Internet o crearne di proprie.
+- [WorldEdit](guides/worldedit.md) - Per costruire in modo piú avanzato tramite comandi.
 
-### 🏛️ **[Lore](lore)**
+### 🏛️ **[Lore](lore/index.md)**
 
-- [Mappa](lore/map) - Mappa del Server Creativa, città e altro.
+- [Mappa](lore/map.md) - Mappa del Server Creativa, città e altro.
 
-### 🛠️ **[Informazioni](info)**
+### 🛠️ **[Informazioni](info/index.md)**
 
 - [GitHub](https://github.com/retards-server/modpack) - Sorgente del modpack, delle sue mod e le loro configurazioni.
 
